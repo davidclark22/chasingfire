@@ -120,7 +120,7 @@ end
 
 ### Small image
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![Octocat](https://github.githubassets.com/images/modules/logos_page/Octocat.png "Meow!")
 
 ### Large image
 
