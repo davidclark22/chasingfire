@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Chasing Fire
-description: The resource for everything related to financial independence and the FIRE movement. 
+description: The top resource for everything related to financial independence and the FIRE movement. 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "//davidclark22.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
