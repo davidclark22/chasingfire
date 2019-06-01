@@ -1,12 +1,12 @@
 ---
 layout: default
-title: New Folder
-nav_order: 9
+title: Investing
+nav_order: 3
 has_children: true
-permalink: docs/newfolder
+permalink: guides/investing
 ---
 
-# Utilities
+# Budgeting
 {: .no_toc }
 
 CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.

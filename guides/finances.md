@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Search
-nav_order: 7
+title: Finances
+nav_order: 2
+permalink: guides/search
 ---
 
 # Search
